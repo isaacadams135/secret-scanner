@@ -1,0 +1,5 @@
+staging box notes (all fake)
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA0fakefakefake0000
+-----END RSA PRIVATE KEY-----
+rotate this every quarter
